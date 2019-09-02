@@ -1,6 +1,6 @@
 package com.anarchy.classify.simple;
 
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
 
 /**
  * User:  Anarchy

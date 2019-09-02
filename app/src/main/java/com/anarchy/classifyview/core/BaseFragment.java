@@ -1,6 +1,6 @@
 package com.anarchy.classifyview.core;
 
-import android.support.v4.app.Fragment;
+import androidx.fragment.app.Fragment;
 
 /**
  * Version 2.1.1

@@ -1,10 +1,10 @@
 package com.anarchy.classifyview;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v4.app.Fragment;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.helper.ItemTouchHelper;
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.ItemTouchHelper;
 
 import com.anarchy.classifyview.core.BaseFragment;
 import com.anarchy.classifyview.sample.demonstrate.DemonstrateFragment;

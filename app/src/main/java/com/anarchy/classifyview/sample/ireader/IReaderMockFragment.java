@@ -1,11 +1,11 @@
 package com.anarchy.classifyview.sample.ireader;
 
 import android.content.Context;
-import android.databinding.DataBindingUtil;
+import androidx.databinding.DataBindingUtil;
 import android.graphics.Color;
 import android.graphics.PixelFormat;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -14,9 +14,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
-import android.widget.PopupWindow;
 
-import com.anarchy.classify.ClassifyView;
 import com.anarchy.classifyview.R;
 import com.anarchy.classifyview.core.BaseFragment;
 import com.anarchy.classifyview.databinding.ExtraIreaderBottomBarBinding;
